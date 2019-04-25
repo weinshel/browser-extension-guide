@@ -15,9 +15,9 @@ An extension consists of a collection of files, packaged for distribution and in
 
 The rest of this page describes each component in a bit more detail and links to some resources with more. We’ve also made an [example extension](https://github.com/uncommonhacks/webextension-starter) that you can start with that implements these pieces and documents the code.
 
-## `manifest.json`
+## Manifest file
 
-This is the only file that must be present in every extension. It contains basic metadata such as its name, version and the permissions it requires. It also provides pointers to other files in the extension.
+The manifest file, `manifest.json` is the only file that must be present in every extension. It declares basic properties of your extension such as its name, version and the permissions it requires. It also provides pointers to other files in the extension.
 
 This manifest can also contain pointers to several other types of files:
 
@@ -52,7 +52,9 @@ All of these are a type of [Extension pages](https://developer.mozilla.org/en-US
 
 
 
-## Graphical Summary![](/assets/webextension-anatomy.png)
+## Graphical Summary
+
+![](/assets/webextension-anatomy.png)
 
 ## Acknowledgements
 

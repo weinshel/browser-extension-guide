@@ -2,7 +2,7 @@ title: "Browser Extension Guide"
 description: A guide for building browser extensions
 
 aux_links:
-  "Browser extension starter":
+  "Starter code":
   - "https://github.com/weinshel/webextension-starter"
 
 # theme: just-the-docs
