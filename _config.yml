@@ -1,9 +1,9 @@
-title: Browser Extension Guide
+title: "Browser Extension Guide"
 description: A guide for building browser extensions
 
 aux_links:
   "Browser extension starter":
-- "https://github.com/weinshel/webextension-starter"
+  - "https://github.com/weinshel/webextension-starter"
 
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
